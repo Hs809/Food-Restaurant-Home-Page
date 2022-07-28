@@ -10,8 +10,9 @@ I have build this website with my core HTML CSS skills
 
 ![image](./created.png)
 
-You can check out here: [Food Restaurant  Home Page By Hitesh](https://justice-by-hitesh.netlify.app/)
+You can check out here: [Food Restaurant  Home Page By Hitesh](https://food-restaurant-by-hitesh.netlify.app/)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/92bd9fb0-babc-43d5-80bf-5c41db83ea4c/deploy-status)](https://app.netlify.com/sites/food-restaurant-by-hitesh/deploys)
 
 
 ## What i have learned from this project
